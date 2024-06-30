@@ -1,5 +1,5 @@
 {
-    "name": "dhl-plugins/dhl-api-wrapper",
+    "name": "hurah/dhl-api-wrapper",
     "description": "Dhl Api Wrapper",
     "homepage": "https://www.dhlparcel.nl",
     "type": "library",
@@ -23,7 +23,7 @@
     },
     "require-dev": {
         "ext-curl": "*",
-        "phpunit/phpunit": "^5",
+        "phpunit/phpunit": "^11.0",
         "psr/log": "^1.0",
         "ramsey/uuid": "^3.7",
         "roave/security-advisories": "dev-master",
